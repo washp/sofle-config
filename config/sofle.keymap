@@ -50,7 +50,7 @@
         };
 
         arrows_layer {
-            display-name = "=Arrows";
+            display-name = "Arrows";
 // TODO: Some binds are waiting for shifted keycode support.
 // ------------------------------------------------------------------------------------------------------------
 // |       |  F1 |  F2 |  F3  |  F4  |  F5  |                   |  F6  |  F7   |  F8   |  F9  |  F10  |  F11  |
